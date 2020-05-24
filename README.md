@@ -5,6 +5,7 @@
 [![Python versions](https://img.shields.io/badge/Python-3.6+-brightgreen.svg?style=flat)](https://www.python.org/downloads/)
 [![GitHub release](https://img.shields.io/github/release/opacam/client-for-tvdb.svg)](https://gitHub.com/opacam/client-for-tvdb/releases/)
 [![GitHub tag](https://img.shields.io/github/tag/opacam/client-for-tvdb.svg)](https://gitHub.com/opacam/client-for-tvdb/tags/)
+[![PyPI version fury.io](https://badge.fury.io/py/client-for-tvdb.svg)](https://pypi.python.org/pypi/client-for-tvdb/)
 [![GitHub license](https://img.shields.io/github/license/opacam/client-for-tvdb.svg)](https://github.com/opacam/client-for-tvdb/blob/master/LICENSE.md)
 
 
