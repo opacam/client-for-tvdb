@@ -1,0 +1,82 @@
+{
+   "data":[
+      {
+         "aliases":[
+
+         ],
+         "banner":"None",
+         "firstAired":"2011-5-7",
+         "id":311939,
+         "image":"/banners/images/missing/series.jpg",
+         "network":"YouTube",
+         "overview":"A spoof/parody Based on HBO\\'s hit series \"A Game of Thrones\" and George RR Martin\\'s A Song of Ice and Fire",
+         "poster":"None",
+         "seriesName":"Game of Thrones: Cartoon Parody",
+         "slug":"game-of-thrones-cartoon-parody",
+         "status":"Ended"
+      },
+      {
+         "aliases":[
+
+         ],
+         "banner":"None",
+         "firstAired":"2015-4-13",
+         "id":293887,
+         "image":"/banners/images/missing/series.jpg",
+         "network":"Sky Deutschland",
+         "poster":"None",
+         "seriesName":"Game of Thrones Talk",
+         "slug":"293887",
+         "status":"Ended"
+      },
+      {
+         "aliases":[
+            "Game of Thrones - Das Lied von Eis und Feuer",
+            "Le Trône de fer",
+            "权力的游戏",
+            "冰与火之歌 第四季",
+            "權力遊戲"
+         ],
+         "banner":"/banners/graphical/121361-g19.jpg",
+         "firstAired":"2010-12-5",
+         "id":121361,
+         "image":"/banners/posters/121361-4.jpg",
+         "network":"HBO",
+         "overview":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and the icy horrors beyond.",
+         "poster":"/banners/posters/121361-4.jpg",
+         "seriesName":"Game of Thrones",
+         "slug":"game-of-thrones",
+         "status":"Ended"
+      },
+      {
+         "aliases":[
+
+         ],
+         "banner":"/banners/graphical/5dba8f6d03de9.jpg",
+         "firstAired":"None",
+         "id":371572,
+         "image":"/banners/posters/5db8dbce60f60.jpg",
+         "network":"None",
+         "overview":"The story of House Targaryen, 300 years before the events of Game of Thrones.",
+         "poster":"/banners/posters/5db8dbce60f60.jpg",
+         "seriesName":"House of the Dragon ",
+         "slug":"house-of-the-dragon",
+         "status":"Upcoming"
+      },
+      {
+         "aliases":[
+            "Hip Hop Tribe 2: Game of Thrones"
+         ],
+         "banner":"None",
+         "firstAired":"2016-4-1",
+         "id":321282,
+         "image":"/banners/posters/321282-2.jpg",
+         "network":"jTBC",
+         "overview":"Tribe of Hip Hop (Hangul: 힙합의 민족) is a hip hop competition program where celebrities with little-to-no background in hip hop are teamed up with professional hip hop music producers.",
+         "poster":"None",
+         "seriesName":"Tribe of Hip Hop",
+         "slug":"tribe-of-hip-hop",
+         "status":"Ended"
+      }
+   ]
+}
