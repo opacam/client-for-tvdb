@@ -1,7 +1,7 @@
 # client-for-tvdb
 
-[![CI](https://github.com/opacam/client-for-tvdb/workflows/CI/badge.svg?branch=master)](https://github.com/opacam/client-for-tvdb/actions)
-[![codecov](https://codecov.io/gh/opacam/client-for-tvdb/branch/master/graph/badge.svg)](https://codecov.io/gh/opacam/client-for-tvdb)
+[![CI](https://github.com/opacam/client-for-tvdb/workflows/CI/badge.svg?branch=develop)](https://github.com/opacam/client-for-tvdb/actions)
+[![codecov](https://codecov.io/gh/opacam/client-for-tvdb/branch/develop/graph/badge.svg)](https://codecov.io/gh/opacam/client-for-tvdb)
 [![Python versions](https://img.shields.io/badge/Python-3.6+-brightgreen.svg?style=flat)](https://www.python.org/downloads/)
 [![GitHub release](https://img.shields.io/github/release/opacam/client-for-tvdb.svg)](https://gitHub.com/opacam/client-for-tvdb/releases/)
 [![GitHub tag](https://img.shields.io/github/tag/opacam/client-for-tvdb.svg)](https://gitHub.com/opacam/client-for-tvdb/tags/)
