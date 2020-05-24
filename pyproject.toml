@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "client-for-tvdb"
+version = "2020.05.23"
+description = "A simple client for the TVDB API v3."
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/opacam/client-for-tvdb/"
+repository = "https://github.com/opacam/client-for-tvdb/"
+keywords = ["tvdb", "API client"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Topic :: Multimedia :: Video",
+    "Topic :: Utilities"
+]
+authors = ["opacam <canellestudi@gmail.com>"]
+maintainers = ["opacam <canellestudi@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
