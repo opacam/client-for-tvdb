@@ -1,7 +1,7 @@
 # client-for-tvdb
 
-[![CI](https://github.com/opacam/client-for-tvdb/workflows/CI/badge.svg?branch=develop)](https://github.com/opacam/client-for-tvdb/actions)
-[![codecov](https://codecov.io/gh/opacam/client-for-tvdb/branch/develop/graph/badge.svg?token=C65WnnEqQw)](https://codecov.io/gh/opacam/client-for-tvdb)
+[![CI](https://github.com/opacam/client-for-tvdb/workflows/CI/badge.svg?branch=master)](https://github.com/opacam/client-for-tvdb/actions)
+[![codecov](https://codecov.io/gh/opacam/client-for-tvdb/branch/master/graph/badge.svg)](https://codecov.io/gh/opacam/client-for-tvdb)
 [![Python versions](https://img.shields.io/badge/Python-3.6+-brightgreen.svg?style=flat)](https://www.python.org/downloads/)
 [![GitHub release](https://img.shields.io/github/release/opacam/client-for-tvdb.svg)](https://gitHub.com/opacam/client-for-tvdb/releases/)
 [![GitHub tag](https://img.shields.io/github/tag/opacam/client-for-tvdb.svg)](https://gitHub.com/opacam/client-for-tvdb/tags/)
@@ -29,7 +29,7 @@ key, follow these steps:
 
 #### Python Installation (recommended to use a virtual env)
 
-You also need python >= 3.6 up and running. If you OS does not have the
+You also need python >= 3.6 up and running. If your OS does not have the
 appropriate python version, you could install [pyenv](https://github.com/pyenv/pyenv) 
 and create a virtual environment with the proper python version. Also you will
 need an up to date pip installation (version `20.0.2` or greater is our
@@ -78,7 +78,7 @@ poetry install
 
 ## Running API client
 
-To use this tvdb API client first you must initialize the client, with
+To use this tvdb API client, first you must initialize the client with
 the proper credentials:
 
 ```python
@@ -93,7 +93,7 @@ tvdb_client = TvdbClient(
 
 Also you could setup your credentials via environment variables, wrote
 in `.env` file which should be located inside the `client_for_tvdb`
-module (or you could `export` it):
+module (or you could `export` them):
 ```
 TVDB_USER_NAME=<Your user name>
 TVDB_USER_KEY=<Your user key>
@@ -121,7 +121,7 @@ credentials via `.env` file:
   search_result = tvdb_client.search_closest_matching("Game of Thrones")
   ```
 
-- You also could query for tvshow given `tvdb_id`:
+- You also could perform a query supplying a `tvdb_id`
   ```python
   from client_for_tvdb import TvdbClient
 
