@@ -1,6 +1,14 @@
  
 # Changelog
 
+## [v2020.05.24](https://github.com/opacam/client-for-tvdb/tree/v2020.05.24) (2020-05-24)
+[Full Changelog](https://github.com/opacam/client-for-tvdb/compare/v2020.05.23.post0...v2020.05.24)
+
+**Merged pull requests:**
+
+- :sparkles: Add badge for published PyPI version [\#2](https://github.com/opacam/client-for-tvdb/pull/2) ([opacam](https://github.com/opacam))
+- :package: Publish on PyPI when new release created [\#1](https://github.com/opacam/client-for-tvdb/pull/1) ([opacam](https://github.com/opacam))
+
 ## [v2020.05.23.post0](https://github.com/opacam/client-for-tvdb/tree/v2020.05.23.post0) (2020-05-24)
 [Full Changelog](https://github.com/opacam/client-for-tvdb/compare/v2020.05.23...v2020.05.23.post0)
 
