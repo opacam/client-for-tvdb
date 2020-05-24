@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "client-for-tvdb"
-version = "2020.05.23.post0"
+version = "2020.05.24"
 description = "A simple client for the TVDB API v3."
 license = "MIT"
 readme = "README.md"
